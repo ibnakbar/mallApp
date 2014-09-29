@@ -9,13 +9,13 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "mallApp/HomeTableViewController.swift"
-            timestampString = "432885004.726041"
+            filePath = "MallApp/TableViewCell.swift"
+            timestampString = "433495312.226461"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "86"
-            endingLineNumber = "86"
-            landmarkName = "numberOfSectionsInTableView(_:)"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "setSelected(_:animated:)"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -25,234 +25,14 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "mallApp/HomeTableViewController.swift"
-            timestampString = "432885004.726041"
+            filePath = "MallApp/navViewController.swift"
+            timestampString = "433664082.267361"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "81"
-            endingLineNumber = "81"
-            landmarkName = "didReceiveMemoryWarning()"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "mallApp/HomeTableViewController.swift"
-            timestampString = "432885004.726041"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "59"
-            endingLineNumber = "59"
-            landmarkName = "editProfile(_:)"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "mallApp/MainViewController.swift"
-            timestampString = "433059097.131333"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "5"
-            endingLineNumber = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "mallApp.MainViewController.__deallocating_deinit"
-                  moduleName = "mallApp"
-                  urlString = "file:///Volumes/MacOSxDisk/mallApp/mallApp/MainViewController.swift"
-                  timestampString = "433059097.137377"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "11"
-                  endingLineNumber = "11"
-                  offsetFromSymbolStart = "19">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "@objc mallApp.MainViewController.__ivar_destroyer"
-                  moduleName = "mallApp"
-                  urlString = "file:///Volumes/MacOSxDisk/mallApp/mallApp/MainViewController.swift"
-                  timestampString = "433059097.137641"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "11"
-                  endingLineNumber = "11"
-                  offsetFromSymbolStart = "20">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "mallApp/MainViewController.swift"
-            timestampString = "433059099.594986"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "6"
-            endingLineNumber = "6">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "mallApp.MainViewController.__deallocating_deinit"
-                  moduleName = "mallApp"
-                  urlString = "file:///Volumes/MacOSxDisk/mallApp/mallApp/MainViewController.swift"
-                  timestampString = "433059099.597186"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "11"
-                  endingLineNumber = "11"
-                  offsetFromSymbolStart = "19">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "@objc mallApp.MainViewController.__ivar_destroyer"
-                  moduleName = "mallApp"
-                  urlString = "file:///Volumes/MacOSxDisk/mallApp/mallApp/MainViewController.swift"
-                  timestampString = "433059099.597412"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "11"
-                  endingLineNumber = "11"
-                  offsetFromSymbolStart = "20">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "mallApp/HomeTableViewController.swift"
-            timestampString = "433059397.450517"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "21"
-            endingLineNumber = "21"
-            landmarkName = "HomeTableViewController"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "navViewController"
             landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "mallApp.HomeTableViewController.adsDescription.getter : Swift.Array&lt;Swift.String&gt;"
-                  moduleName = "mallApp"
-                  urlString = "file:///Volumes/MacOSxDisk/mallApp/mallApp/HomeTableViewController.swift"
-                  timestampString = "433059397.476888"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "18">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "mallApp.HomeTableViewController.adsDescription.setter : Swift.Array&lt;Swift.String&gt;"
-                  moduleName = "mallApp"
-                  urlString = "file:///Volumes/MacOSxDisk/mallApp/mallApp/HomeTableViewController.swift"
-                  timestampString = "433059397.477245"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "27">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "mallApp.HomeTableViewController.init (mallApp.HomeTableViewController.Type)(style : C.UITableViewStyle) -&gt; mallApp.HomeTableViewController"
-                  moduleName = "mallApp"
-                  urlString = "file:///Volumes/MacOSxDisk/mallApp/mallApp/HomeTableViewController.swift"
-                  timestampString = "433059397.477458"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "21"
-                  endingLineNumber = "21"
-                  offsetFromSymbolStart = "672">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "mallApp.HomeTableViewController.init (mallApp.HomeTableViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; mallApp.HomeTableViewController"
-                  moduleName = "mallApp"
-                  urlString = "file:///Volumes/MacOSxDisk/mallApp/mallApp/HomeTableViewController.swift"
-                  timestampString = "433059397.477637"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "21"
-                  endingLineNumber = "21"
-                  offsetFromSymbolStart = "675">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "mallApp.HomeTableViewController.init (mallApp.HomeTableViewController.Type)() -&gt; mallApp.HomeTableViewController"
-                  moduleName = "mallApp"
-                  urlString = "file:///Volumes/MacOSxDisk/mallApp/mallApp/HomeTableViewController.swift"
-                  timestampString = "433059397.47781"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "21"
-                  endingLineNumber = "21"
-                  offsetFromSymbolStart = "663">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "mallApp.HomeTableViewController.init (mallApp.HomeTableViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; mallApp.HomeTableViewController"
-                  moduleName = "mallApp"
-                  urlString = "file:///Volumes/MacOSxDisk/mallApp/mallApp/HomeTableViewController.swift"
-                  timestampString = "433059397.477996"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "21"
-                  endingLineNumber = "21"
-                  offsetFromSymbolStart = "672">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "mallApp/SearchTableViewController.swift"
-            timestampString = "433065703.92991"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "80"
-            endingLineNumber = "80">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

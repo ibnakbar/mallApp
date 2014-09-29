@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>mallApp.xcscheme</key>
+		<key>MallApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>2DFA6DF019CAAF5E00010C4B</key>
+		<key>2DFFB64E19D2935A00F20E53</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>2DFA6E0819CAAF5E00010C4B</key>
+		<key>2DFFB66619D2935A00F20E53</key>
 		<dict>
 			<key>primary</key>
 			<true/>

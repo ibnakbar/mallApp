@@ -1,15 +1,15 @@
 //
-//  MallAppTests.swift
-//  MallAppTests
+//  MenuSubViewControllersTests.swift
+//  MenuSubViewControllersTests
 //
-//  Created by PanaCloud on 9/24/14.
+//  Created by PanaCloud on 9/26/14.
 //  Copyright (c) 2014 PanaCloud. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class MallAppTests: XCTestCase {
+class MenuSubViewControllersTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2DFA6DF019CAAF5E00010C4B"
-               BuildableName = "mallApp.app"
-               BlueprintName = "mallApp"
-               ReferencedContainer = "container:mallApp.xcodeproj">
+               BlueprintIdentifier = "2DFFB64E19D2935A00F20E53"
+               BuildableName = "MallApp.app"
+               BlueprintName = "MallApp"
+               ReferencedContainer = "container:MallApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2DFA6E0819CAAF5E00010C4B"
-               BuildableName = "mallAppTests.xctest"
-               BlueprintName = "mallAppTests"
-               ReferencedContainer = "container:mallApp.xcodeproj">
+               BlueprintIdentifier = "2DFFB66619D2935A00F20E53"
+               BuildableName = "MallAppTests.xctest"
+               BlueprintName = "MallAppTests"
+               ReferencedContainer = "container:MallApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2DFA6E0819CAAF5E00010C4B"
-               BuildableName = "mallAppTests.xctest"
-               BlueprintName = "mallAppTests"
-               ReferencedContainer = "container:mallApp.xcodeproj">
+               BlueprintIdentifier = "2DFFB66619D2935A00F20E53"
+               BuildableName = "MallAppTests.xctest"
+               BlueprintName = "MallAppTests"
+               ReferencedContainer = "container:MallApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2DFA6DF019CAAF5E00010C4B"
-            BuildableName = "mallApp.app"
-            BlueprintName = "mallApp"
-            ReferencedContainer = "container:mallApp.xcodeproj">
+            BlueprintIdentifier = "2DFFB64E19D2935A00F20E53"
+            BuildableName = "MallApp.app"
+            BlueprintName = "MallApp"
+            ReferencedContainer = "container:MallApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2DFA6DF019CAAF5E00010C4B"
-            BuildableName = "mallApp.app"
-            BlueprintName = "mallApp"
-            ReferencedContainer = "container:mallApp.xcodeproj">
+            BlueprintIdentifier = "2DFFB64E19D2935A00F20E53"
+            BuildableName = "MallApp.app"
+            BlueprintName = "MallApp"
+            ReferencedContainer = "container:MallApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2DFA6DF019CAAF5E00010C4B"
-            BuildableName = "mallApp.app"
-            BlueprintName = "mallApp"
-            ReferencedContainer = "container:mallApp.xcodeproj">
+            BlueprintIdentifier = "2DFFB64E19D2935A00F20E53"
+            BuildableName = "MallApp.app"
+            BlueprintName = "MallApp"
+            ReferencedContainer = "container:MallApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
